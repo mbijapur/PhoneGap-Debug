@@ -3,6 +3,9 @@
 The Marketo Mobile SDK allows integration with Marketo Mobile Engagement (MME).
 
 ## Plugin Change Log
+v0.9.2 (Aug 30, 2023)
+- Updated XCframework using new method & enhancements.
+
 v0.9.0 (June 05, 2023)
 - Added parameter to capture the type of framework used for development (native, ionic, phonegap or reactnative)
 
